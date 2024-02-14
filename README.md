@@ -1,16 +1,14 @@
-### Hi there 👋
+# Sobre mí
 
-<!--
-**AgustinVillavicencio/AgustinVIllavicencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Agustin Villavicencio, un estudiante de Programación en la UTN-FRM. Me apasiona el aprendizaje continuo y la mejora constante. Combino mi formación universitaria con cursos en línea para cultivar una sólida base de conocimientos en programación.
 
-Here are some ideas to get you started:
+## Objetivos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi objetivo es fusionar mis habilidades en programación con un dominio avanzado del idioma inglés para destacarme en mi trayectoria profesional. Dedico tiempo especial al perfeccionamiento del inglés para lograr este objetivo.
+
+## Contacto
+
+- Correo: villavicencio.agustin.17@gmail.com
+- LinkedIn: [Agustin Villavicencio](https://www.linkedin.com/in/agustin-villavicencio-998199276/)
+
+¡Gracias por visitar mi perfil!
